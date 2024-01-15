@@ -1,15 +1,6 @@
 # Predicting Student Success Using Machine Learning 
 
-## Overview
-
 This repository contains code and documentation for a project aimed at enhancing student success in the Turkish education system through data science and machine learning.
-
-## Project Structure
-
-- **data**: Contains the dataset used for analysis.
-- **notebooks**: Jupyter notebooks for Exploratory Data Analysis (EDA) and modeling.
-- **src**: Python scripts for feature engineering, model development, and evaluation.
-- **results**: Includes the final trained machine learning model and other relevant results.
 
 ## Project Workflow
 
